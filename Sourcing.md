@@ -4,7 +4,7 @@ The following shops are all responsive and helpful, they can help with the sourc
 
 
 
-| **Shop**                             |  **Location**   |    Hadware Kits    |       Parts        | Klicky printed parts | Comments                               |
+| **Shop**                             |  **Location**   |    Hardware Kits    |       Parts        | Klicky printed parts | Comments                               |
 | ------------------------------------ | :-------------: | :----------------: | :----------------: | :------------------: | -------------------------------------- |
 | [Fabrekko](https://www.fabreeko.com) |      :us:       | :heavy_check_mark: |        some        |         :x:          | lots of parts to expand 3d printers    |
 | [Lab4450](https://lab4450.com/)      | :eu: :portugal: | :heavy_check_mark: |        :x:         |  :heavy_check_mark:  | kits for V0, V2, VT, Switchwire, Vcore, PCB's      |
